@@ -17,9 +17,8 @@ const About = () => {
             />
           </div>
           <div className="col-6 px-5 fs-4 pt-5 mt-2" id="text_about">
-            My name is <span style={{ color: "orange" }}>Ateev Duggal</span>,
-            and I am a freelance front-end-web developer and a blogger with a
-            highly qualified and self-attained skill set which contains most
+            My name is <span style={{ color: "orange" }}>Antoine Rocca</span>,
+            and I am a front-end-web developer skill set which contains most
             used and compatible JS framework - React JS.
             <div className="d-flex justify-content-between mt-5">
               <a href={Resume} download>
@@ -28,7 +27,7 @@ const About = () => {
                 </button>
               </a>
               <a
-                href="https://www.linkedin.com/in/ateev-duggal-937795182/"
+                href="https://www.linkedin.com/in/antoine-rocca-90b608175/"
                 className="text-white fw-bold text-decoration-none fs-4 px-3"
                 target="true"
               >

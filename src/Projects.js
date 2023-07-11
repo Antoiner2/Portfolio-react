@@ -49,7 +49,7 @@ const Projects = () => {
           })}
           <div className="text-center col-12 mt-5">
             <a
-              href="https://github.com/Ateevduggal?tab=repositories"
+              href="https://github.com/Antoiner2?tab=repositories"
               target="true"
             >
               <button

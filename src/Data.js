@@ -1,23 +1,23 @@
 export const slider = [
   {
     text: "HTML",
-    width: "65%",
+    width: "90%",
   },
   {
     text: "CSS",
-    width: "70%",
+    width: "80%",
   },
   {
     text: "Bootstrap",
-    width: "70%",
+    width: "50%",
   },
   {
     text: "JS",
-    width: "55%",
+    width: "70%",
   },
   {
     text: "React JS",
-    width: "65%",
+    width: "60%",
   },
 ];
 
@@ -38,42 +38,28 @@ export const services = [
     text: "SPA is the new trend that everyone's following as it decreases loading time and increases user activity on your website or product",
   },
   {
-    icon: "fa fa-image",
-    heading: "PSD to HTML Web Development",
-    text: "Converting a beautiful image into a website or page is very unique and the output will be more than you have hoped for",
+    icon: "fa fa-bolt",
+    heading: "Search Engine Optimization",
+    text: "All the techniques used to improve a website's position on search engine results pages.",
   },
 ];
 
 export const projects = [
   {
     image: "./Images/template1.png",
-    heading: "Yoga Template",
-    link: "https://ateevduggal.github.io/yoga-template/",
+    heading: "Agency Template",
   },
   {
     image: "./Images/template2.png",
-    heading: "Consultancy Template",
-    link: "https://ateevduggal.github.io/Consultancy---Template/",
+    heading: "Coffee Template",
   },
   {
     image: "./Images/template3.png",
-    heading: "Restaurant Template",
-    link: "https://ateevduggal.github.io/Restaurant/",
+    heading: "Musical Template",
   },
   {
     image: "./Images/SPA.png",
-    heading: "Tekolio SPA",
-    link: "https://tekolio-react-9tjfdrwwu-ateevduggal.vercel.app/",
-  },
-  {
-    image: "./Images/dictionary-app.png",
-    heading: "Dictionary App",
-    link: "https://dictionary-app-xi.vercel.app/",
-  },
-  {
-    image: "./Images/google.png",
-    heading: "Live Wildfire App using NASA API",
-    link: "https://dictionary-app-xi.vercel.app/",
+    heading: "E-shop template",
   },
 ];
 
@@ -113,27 +99,27 @@ export const blogs = [
 export const social = [
   {
     id: "1",
-    link: "https://www.facebook.com/ateev.duggal",
+    link: "https://www.facebook.com/antoine.rocca.5",
     icon: "fab fa-facebook-square facebook",
   },
   {
     id: "2",
-    link: "https://www.instagram.com/ateevduggal/",
+    link: "https://instagram.com/antoine_rca?igshid=OGQ5ZDc2ODk2ZA==",
     icon: "fab fa-instagram-square instagram",
   },
   {
     id: "3",
-    link: "https://www.linkedin.com/in/ateev-duggal-937795182/",
+    link: "https://www.linkedin.com/in/antoine-rocca-90b608175/",
     icon: "fab fa-linkedin linkedin",
   },
   {
     id: "4",
-    link: "mailto:akd3257@gmail.com",
+    link: "mailto:rantoine@live.fr",
     icon: "fas fa-envelope mail",
   },
   {
     id: "5",
-    link: "https://wa.me/917895336771",
+    link: "https://wa.me/33687303208",
     icon: "fab fa-whatsapp-square whatsapp",
   },
 ];
